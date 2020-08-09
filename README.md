@@ -1,5 +1,6 @@
 # MouseFighter
 Java based shoot 'em up game
+
 This is a Shmup I created entirely in Java. Graphics are fairly primitive, generated using only the Java library's shape methods drawn onto JPanels. There is only one enemy
 however it has different attack patterns as its hit points deplete. 
 
